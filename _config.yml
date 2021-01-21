@@ -27,7 +27,7 @@ markdown: kramdown
 remote_theme: hakocat/shizuka@0.1
 baidu_analytics: '3b1b6b524e8a4821567ad51fd4bd5f8d'
 google_analytics: 'G-8PMC444GVF'
-typekit_id: 'kgo6giz'
+typekit_id: 'rnz7upm'
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
